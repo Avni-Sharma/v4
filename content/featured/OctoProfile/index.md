@@ -1,14 +1,14 @@
 ---
-date: '3'
-title: 'OctoProfile'
+date: '5'
+title: 'Cloud Native App Development 1o1'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+# github: 'https://github.com/bchiang7/octoprofile'
+external: 'https://www.youtube.com/watch?v=CWTVWP6ivHg'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Cloud Native
+  - Containers
+  - Kubernetes
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+ The session explains What is Cloud Native, Why, and How to adopt Cloud Native. It sheds light on Cloud Native technologies and containerization, moving from a monolithic based architecture to microservice architecture, and then implementing a demo where we build containers and also migrate it to a Kubernetes environment.  

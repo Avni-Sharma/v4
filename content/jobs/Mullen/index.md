@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2017-05-01'
+title: 'Summer Research Fellow'
+company: 'NITK, Suratkal'
+location: 'Suratkal, India'
+range: 'May 2017 - June 2017'
+url: 'https://www.nitk.ac.in/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Sentiment Analysis/Opinion mining on micro blogging sites like Twitter using NLTK in Python, for automatic collection of corpus to train classifiers which can then determine the positive and negative sentiments for a given query. 
+- Supervised machine learning was used and a live sentiment chart was obtained to graph the sentiments in real time. Tweets were graphed into positive and negative. For this project I chose the topic Demonetization in India.

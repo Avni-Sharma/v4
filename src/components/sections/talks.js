@@ -293,7 +293,7 @@ const StyledProject = styled.li`
   }
 `;
 
-const Featured = () => {
+const Talks = () => {
   const data = useStaticQuery(graphql`
     {
       featured: allMarkdownRemark(
@@ -335,7 +335,7 @@ const Featured = () => {
   }, []);
 
   return (
-    <section id="projects">
+    <section id="talks">
       <h2 className="numbered-heading" ref={revealTitle}>
         Talks
       </h2>
@@ -351,7 +351,7 @@ const Featured = () => {
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
                   <div>
-                    <p className="project-overline">Featured Project</p>
+                    <p className="project-overline">Featured Talk</p>
 
                     <h3 className="project-title">
                       <a href={external}>{title}</a>
@@ -371,11 +371,11 @@ const Featured = () => {
                     )}
 
                     <div className="project-links">
-                      {github && (
+                      {/* {github && (
                         <a href={github} aria-label="GitHub Link">
                           <Icon name="GitHub" />
                         </a>
-                      )}
+                      )} */}
                       {external && (
                         <a href={external} aria-label="External Link" className="external">
                           <Icon name="External" />
@@ -398,4 +398,4 @@ const Featured = () => {
   );
 };
 
-export default Featured;
+export default Talks;

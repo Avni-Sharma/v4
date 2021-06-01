@@ -1,16 +1,13 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
+date: '2'
+title: 'Connecting Apps with Services'
+cover: './sbo.png'
 github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://www.youtube.com/watch?v=AYQ5Je4cCa0'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - OpenShift
+  - Service Binding
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+This talk demonstrates an improved developer experience on declaring and ensuring binding with apps and services.

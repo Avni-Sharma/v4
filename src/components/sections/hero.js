@@ -59,14 +59,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Avni Sharma.</h2>;
+
+  const three = <h3 className="big-heading">She/Her.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      Hello World! I am currently a graduate student of Master of Science in Information Systems(MSIS) at the Kelley School of Business, Indiana University.
+      I am passionate about - Cloud technologies, Product Management, Technology consulting, Software solutions engineering, IT strategy, and Developer Advocacy. 
+     Learning and growing in a collaborative environment is what feeds energy to my soul.
+
     </p>
   );
   const five = (

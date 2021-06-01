@@ -1,12 +1,13 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2019-02-02'
+title: 'Associate Software Engineer'
+company: 'Red Hat'
+location: 'Bangalore, India'
+range: 'February 2019 - February 2020'
+url: 'https://www.redhat.com/en'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Worked on the <strong><em>[DevConsole Operator](https://github.com/redhat-developer/devconsole-operator)</strong></em> which enabled a developer-focused view in the OpenShift 4 web console.
+- Built the continuous integration flow for the project.
+- Contributed to the Operator testing and release suite.
+-  Worked in an agile model and collaborated with various teams across the organization and diverse teams, in various timezones, and demoed milestones in various sprint demos.

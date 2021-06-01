@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: '16avnisharma@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/Avni-Sharma',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/bchiang7',
+    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/16avnisharma',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/avni-sharma-b45631117/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Medium',
+      url: 'https://medium.com/@16avnisharma',
     },
   ],
 
@@ -30,12 +30,24 @@ module.exports = {
       url: '/#about',
     },
     {
+      name: 'Skills',
+      url: '/#skills',
+    },
+    {
       name: 'Experience',
       url: '/#jobs',
     },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
-      name: 'Work',
-      url: '/#projects',
+      name: 'Talks',
+      url: '/#talks',
+    },
+    {
+      name: 'Accomplishments',
+      url: '/#accomplishments',
     },
     {
       name: 'Contact',
