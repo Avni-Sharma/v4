@@ -125,8 +125,6 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Go Lang', 'Python', 'Shell', 'Java', 'C', 'HTML', 'CSS', 'Git', 'Kubernetes', 'OpenShift', 'Docker','Operator-sdk', 'CI/CD- Travis,Github Actions'];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -135,20 +133,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            I am an Open Source contributor and I love all things cloud native. I love exploring new technology
-            and I try to get a bit-wiser each day. I have a passion for technology, its value to organisations and
-            the purposes that drive them. My interests are blogging, mentoring, giving talks and attending conferences,
-            travelling and connecting with people. I have been a speaker and advocate for many women in tech programs, open-source talks.
+              I am an Open Source contributor and I love all things cloud native. I love exploring
+              new technology and I try to get a bit-wiser each day. I have a passion for technology,
+              its value to organisations and the purposes that drive them. My interests are
+              blogging, mentoring, giving talks and attending conferences, travelling and connecting
+              with people. I have been a speaker and advocate for many women in tech programs,
+              open-source talks.
             </p>
             <p>
-            Following my passion for logical problem solving, I pursued computer science engineering from the <a href="https://nie.ac.in/">National Institute of Engineering</a>, in India. After graduation, I have gained software development experience in corporate environments.
-            To expand my knowledge about the business processes involved in delivering technology to people, I have enrolled myself as a graduate student in the MSIS program at the <a href="https://kelley.iu.edu/programs/ms-information-systems/index.html">Kelley School of Business</a>, Indiana University, USA.
+              Following my passion for logical problem solving, I pursued computer science
+              engineering from the{' '}
+              <a href="https://nie.ac.in/">National Institute of Engineering</a>, in India. After
+              graduation, I have gained software development experience in corporate environments.
+              To expand my knowledge about the business processes involved in delivering technology
+              to people, I have enrolled myself as a graduate student in the MSIS program at the{' '}
+              <a href="https://kelley.iu.edu/programs/ms-information-systems/index.html">
+                Kelley School of Business
+              </a>
+              , Indiana University, USA.
             </p>
             <p>
-            My past expereince has propelled my interests in Cloud technologies, Product Management, Technology consulting, Software solutions engineering, IT strategy, and Developer Advocacy.
+              My past expereince has propelled my interests in Cloud technologies, Product
+              Management, Technology consulting, Software solutions engineering, IT strategy, and
+              Developer Advocacy.
             </p>
           </div>
-
         </StyledText>
 
         <StyledPic>

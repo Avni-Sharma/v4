@@ -64,10 +64,11 @@ const Hero = () => {
   const three = <h3 className="big-heading">She/Her.</h3>;
   const four = (
     <p>
-      Hello World! I am currently a graduate student of Master of Science in Information Systems(MSIS) at the Kelley School of Business, Indiana University.
-      I am passionate about - Cloud technologies, Product Management, Technology consulting, Software solutions engineering, IT strategy, and Developer Advocacy. 
-     Learning and growing in a collaborative environment is what feeds energy to my soul.
-
+      Hello World! I am currently a graduate student of Master of Science in Information
+      Systems(MSIS) at the Kelley School of Business, Indiana University. I am passionate about -
+      Cloud technologies, Product Management, Technology consulting, Software solutions engineering,
+      IT strategy, and Developer Advocacy. Learning and growing in a collaborative environment is
+      what keeps me motivated and feeds energy to my soul.
     </p>
   );
   const five = (
